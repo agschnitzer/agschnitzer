@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hi, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
+
+I'm a computer science student and Full-Stack developer from Vienna, Austria! Apart from focusing on my bachelor thesis, I'm currently working on exciting web projects, ranging from static websites to elaborate web apps. 🔭  
+
+- 🌱 I’m currently learning React, Next.js and edge computing.
+- 💬 I'm interested in developing privacy focused software that makes life easier.    
+- 📫 Feel free to reach out to me: [alex.gschnitzer@protonmail.com](mailto:alex.gschnitzer@protonmail.com)
+
+I'm looking forward to improve my skills and collaborate on interesting open source projects! :v: 
 
 <!--
-**agschnitzer/agschnitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
