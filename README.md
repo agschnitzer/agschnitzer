@@ -6,7 +6,9 @@ I'm a computer science student and Full-Stack developer from Vienna, Austria! Ap
 - 💬 I'm interested in developing privacy focused software that makes life easier.    
 - 📫 Feel free to reach out to me: [alex.gschnitzer@protonmail.com](mailto:alex.gschnitzer@protonmail.com)
 
-I'm looking forward to improve my skills and collaborate on interesting open source projects! :v: 
+I'm looking forward to collaborate on interesting open source projects! :v:
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/> 
 
 <!--
 Here are some ideas to get you started:
