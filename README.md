@@ -1,8 +1,9 @@
 ### Hi, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
 
-I'm a computer science student and Full-Stack developer from Vienna, Austria! Apart from focusing on my bachelor thesis, I'm currently working on exciting web projects, ranging from static websites to elaborate web apps. 🔭  
+I'm a computer science student and Full-Stack developer from Vienna, Austria! Apart from focusing on my bachelor thesis, I'm currently working on exciting web projects, ranging from static websites to elaborate web apps. 🧑🏼‍💻
 
-- 🌱 I’m currently learning React, Next.js and edge computing.
+- 🔭 I'm most experienced with React (Next.js) and Tailwind.
+- 🌱 I'm expanding my knowledge on fault-tolerant methods in fog applications.
 - 💬 I'm interested in developing privacy focused software that makes life easier.    
 - 📫 Feel free to reach out to me: [alex.gschnitzer@protonmail.com](mailto:alex.gschnitzer@protonmail.com)
 
