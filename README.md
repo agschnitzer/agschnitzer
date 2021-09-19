@@ -1,15 +1,17 @@
 ### Hi, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
 
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/> 
+
 I'm a computer science student and Full-Stack developer from Vienna, Austria! Apart from focusing on my bachelor thesis, I'm currently working on exciting web projects, ranging from static websites to elaborate web apps. 🧑🏼‍💻
 
 - 🔭 I'm most experienced with React (Next.js) and Tailwind.
 - 🌱 I'm expanding my knowledge on fault-tolerant methods in fog applications.
-- 💬 I'm interested in developing privacy focused software that makes life easier.    
+- 💬 I'm interested in working on privacy focused projects that make life easier.    
 - 📫 Feel free to reach out to me: [alex.gschnitzer@protonmail.com](mailto:alex.gschnitzer@protonmail.com)
 
 I'm looking forward to collaborate on interesting open source projects! :v:
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/> 
+<a href="https://www.buymeacoffee.com/agschnitzer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="30" width="130"></a>
 
 <!--
 Here are some ideas to get you started:
