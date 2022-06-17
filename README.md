@@ -1,4 +1,4 @@
-## Hi, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
+## Hi, I'm Alex
 
 I'm a computer science student and Full-Stack developer from Vienna, Austria! Apart from focusing on my bachelor thesis, I'm currently working on exciting web projects, ranging from static websites to elaborate web apps. 🧑🏼‍💻
 
