@@ -1,8 +1,8 @@
 # Hey, I'm Alex 👨🏼‍💻
 
-### I'm a software engineer who is passionate about building stuff for the web and interested in privacy focused applications that make life easier 🚀
+### I'm a software engineer who is passionate about building stuff for the web and is interested in privacy focused applications that make life easier 🚀
 
-I work as a full-stack developer based in Vienna, and I'm currently spending my time developing exciting web projects ranging from static websites to building elaborate web apps. I believe in making the web a more secure and accessible place for everyone. As a computer science graduate, I'm always striving to improve my skills and to expand my knowledge on emerging technologies. During my studies, I had the most fun learning about distributed systems, deploying applications on the edge and adopting privacy-enchancing technologies. 
+I work as a full-stack developer based in Vienna, and I'm currently spending my time developing exciting web projects ranging from static websites to building elaborate web apps. I believe in making the web a more accessible and secure place for everyone. As a computer science graduate, I'm always striving to improve my skills and to expand my knowledge on emerging technologies. During my studies, I had the most fun learning about distributed systems, deploying applications on the edge and implementing privacy-enchancing technologies. 
 
 ### Some technologies I worked with:
 
@@ -14,4 +14,4 @@ I work as a full-stack developer based in Vienna, and I'm currently spending my 
 
 ## Get in touch
 
-You can send me an email to [alex.gschnitzer@protonmail.com](mailto:alex.gschnitzer@protonmail.com). I'm currently working on my personal website to showcase my projects as a freelance developer. Stay tuned! :v:
+Email me at [alex.gschnitzer@protonmail.com](mailto:alex.gschnitzer@protonmail.com). I'm currently working on my personal website to showcase my projects as a freelance developer. Stay tuned! :v:
