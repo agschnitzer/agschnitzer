@@ -1,7 +1,7 @@
 [![Alex Gschnitzer. Software Engineer & Full-Stack Developer](http://alexgschnitzer.com/github-banner.png)](https://alexgschnitzer.com)
 
 ## Hi there, I'm Alex 👋
-I'm a software engineer who is passionate about building stuff for the web. I work as a full-stack developer based in Vienna, Austria. As a computer science graduate with 5+ years of experience as a freelance developer and a passion for UX/UI design, I have a strong foundation in software development.
+As a computer science graduate with over 7 years of experience as a freelance developer and UX/UI designer, I bring a solid foundation in software development coupled with a keen eye for user-centric design. I help your business craft intuitive and engaging digital experiences that drive results.
 
 ### Get in Touch 📫
 
