@@ -1,7 +1,7 @@
-[![Alex Gschnitzer. Software Engineer & Full-Stack Developer](http://alexgschnitzer.com/github-banner.png)](https://alexgschnitzer.com)
+[![Alex Gschnitzer. Software Engineer & Full-Stack Developer](http://alexgschnitzer.com/github-agschnitzer-banner.png)](https://alexgschnitzer.com)
 
 ## Hi there, I'm Alex 👋
-As a computer science graduate with over 7 years of experience as a freelance developer and UX/UI designer, I bring a solid foundation in software development coupled with a keen eye for user-centric design. I help your business craft intuitive and engaging digital experiences that drive results.
+As a computer science graduate with over 7 years of experience as a freelance developer and UX/UI designer, I bring a solid foundation in software development coupled with a keen eye for user-centric design. I design and build custom web applications that turn your ideas into reality.
 
 ### Get in Touch 📫
 
